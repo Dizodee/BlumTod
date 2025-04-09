@@ -20,7 +20,7 @@
                     "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                     "name": "Blum points",
                     "symbol": "BP",
-                    "value": "1000"
+                    "value": "1000000"
                 },
                 "subTasks": [
                     {
@@ -37,7 +37,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "0"
+                            "value": "990000"
                         },
                         "applicationLaunch": {
                             "url": "https://t.me/treasury_official_bot/app?startapp=-3"
@@ -58,7 +58,7 @@
                             "currencyId": "59bee2e3-a682-4ec5-93df-a3bb294f7bed",
                             "name": "Blum points",
                             "symbol": "BP",
-                            "value": "0"
+                            "value": "900000"
                         },
                         "socialSubscription": {
                             "openInTelegram": true,
